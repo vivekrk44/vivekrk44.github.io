@@ -11,7 +11,7 @@ title                    : "Vivek Radhakrishnan"
 title_separator          : "-"
 name                     : &name "Vivek Radhakrishnan"
 description              : &description "personal description"
-url                      : https://vivekradhakrishnan.github.io
+url                      : https://vivekrk44.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vivekrk44/VivekRadhakrishnan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
