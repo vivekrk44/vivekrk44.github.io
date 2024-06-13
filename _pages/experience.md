@@ -1,10 +1,8 @@
 <!-- layout: archive -->
 title: "Work Experience"
-permalink: /work-experience/
+permalink: /experience/
 author_profile: true
-redirect_from:
 
-/work-experience
 <head>
 <style>
 p.research {
