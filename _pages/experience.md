@@ -1,5 +1,5 @@
 <!-- layout: archive -->
-title: "Work Experience"
+title: "experience"
 permalink: /experience/
 author_profile: true
 
