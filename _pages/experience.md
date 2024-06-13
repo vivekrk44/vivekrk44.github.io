@@ -25,6 +25,21 @@ div.description {
 
 # Work Experience
 
+## ZEROFLAi
+
+<ul style="list-style-type:square">
+<li>
+<div class="title">Co-Founder & CEO</div>
+<div class="description">Jul. 2023 - Present</div>
+<div class="description">
+At ZEROFLAi, I serve as the Co-Founder and CEO, focusing on bridging drone innovation from research to industry. I developed and implemented an autonomous charging system for UAVs, enabling perpetual autonomous missions without human intervention.
+</div>
+<div class="description">
+This system integrates advanced charging technologies with UAV operations, significantly enhancing the efficiency and sustainability of drone missions. My work at ZEROFLAi is driven by a commitment to advancing the capabilities of UAVs and making cutting-edge research accessible and practical for industrial applications.
+</div>
+</li>
+</ul>
+
 ## Technology Innovation Institute, Abu Dhabi, UAE
 
 <ul style="list-style-type:square">
