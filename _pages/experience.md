@@ -1,7 +1,12 @@
+---
 <!-- layout: archive -->
-title: "experience"
+title: ""
 permalink: /experience/
 author_profile: true
+redirect_from:
+  - /experience
+---
+
 
 <head>
 <style>
