@@ -34,7 +34,7 @@ div.description {
 
 # Welcome!
 
-<p>Proactive Robotics researcher and engineer specialized in autonomous unmanned aerial vehicles with 10+ years of experience delivering multiple industrial solutions, including long-range GPS denied navigation for unmanned aerial systems as well as heterogeneous swarms of aerial robots for maximum area coverage. Driven by an ongoing quest for knowledge and a dedication to solving complex challenges with exceptional proficiency across both hardware and software domains.</p>
+<p>Proactive Robotics researcher and engineer specialized in autonomous unmanned aerial vehicles with over a decade of experience delivering multiple industrial solutions, including long-range GPS denied navigation for unmanned aerial systems as well as heterogeneous swarms of aerial robots for maximum area coverage. Driven by an ongoing quest for knowledge and a dedication to solving complex challenges with exceptional proficiency across both hardware and software domains.</p>
 
 ## Research
 
