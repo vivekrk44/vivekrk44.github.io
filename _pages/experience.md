@@ -131,14 +131,3 @@ Etisalat, Dubai, UAE
 </ul>
 </li>
 </ul>
-Samsung and Acer, Dubai, UAE
-<ul style="list-style-type:square">
-<li>
-<div class="title">Promoter</div>
-<div class="description">Feb. 2013 and Oct. 2012</div>
-<ul>
-<li>Worked as a promoter for Samsung during Gitex Shopper 2013 and Acer during Gitex Shopper 2012</li>
-<li>Engaged with customers and demonstrated product features</li>
-</ul>
-</li>
-</ul> 
