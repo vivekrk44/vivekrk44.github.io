@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /experience
 ---
-
 <head>
 <style>
 p.research {
@@ -22,11 +21,8 @@ div.description {
 }
 </style>
 </head>
-
-# Work Experience
-
-## ZEROFLAi
-
+Work Experience
+ZEROFLAi
 <ul style="list-style-type:square">
 <li>
 <div class="title">Co-Founder & CEO</div>
@@ -34,36 +30,26 @@ div.description {
 <div class="description">
 At ZEROFLAi, I serve as the Co-Founder and CEO, focusing on bridging drone innovation from research to industry. I developed and implemented an autonomous charging system for UAVs, enabling perpetual autonomous missions without human intervention.
 </div>
-<div class="description">
-This system integrates advanced charging technologies with UAV operations, significantly enhancing the efficiency and sustainability of drone missions. My work at ZEROFLAi is driven by a commitment to advancing the capabilities of UAVs and making cutting-edge research accessible and practical for industrial applications.
-</div>
 </li>
 </ul>
-
-## Technology Innovation Institute, Abu Dhabi, UAE
-
+Technology Innovation Institute, Abu Dhabi, UAE
 <ul style="list-style-type:square">
-
 <li>
 <div class="title">Senior Researcher Hardware Design</div>
 <div class="description">Jul. 2020 - Aug. 2023</div>
 <div class="description">
-At the Technology Innovation Institute (TII) in Abu Dhabi, I served as a Senior Researcher in Hardware Design. During this time, I was responsible for implementing and setting up fully automated system designs for both quadcopters and fixed-wing VTOLs, developing a unified control architecture to facilitate seamless transitions between flight modes.
+At the Technology Innovation Institute (TII) in Abu Dhabi, I served as a Senior Researcher in Hardware Design. I was responsible for implementing fully automated system designs for quadcopters and fixed-wing VTOLs and developing a unified control architecture for seamless transitions between flight modes.
 </div>
 <div class="description">
-My work included developing non-linear controllers and planners that enabled high-speed quadcopter flights exceeding 100 miles per hour. Additionally, I utilized advanced multi-sensor fusion techniques, specifically implementing an Unscented Kalman Filter, to enhance tracking and environmental awareness.
+I also developed non-linear controllers and planners for high-speed quadcopter flights, utilized multi-sensor fusion techniques with an Unscented Kalman Filter, and designed a cascaded multi-filter approach combining EKF and PDAF for object tracking.
 </div>
 <div class="description">
-I also designed a cascaded multi-filter approach, combining EKF and PDAF, to track incoming objects while removing false positives. Furthermore, I integrated these systems with QGroundControl and developed custom UI for commander and control modules.
+Furthermore, I integrated these systems with QGroundControl and developed custom UI for commander and control modules.
 </div>
 </li>
-
 </ul>
-
-## Algorythma Autonomous Aerial Labs, Abu Dhabi, UAE
-
+Algorythma Autonomous Aerial Labs, Abu Dhabi, UAE
 <ul style="list-style-type:square">
-
 <li>
 <div class="title">Systems Integration Engineer</div>
 <div class="description">Oct. 2018 - Jun. 2020</div>
@@ -71,73 +57,157 @@ I also designed a cascaded multi-filter approach, combining EKF and PDAF, to tra
 At Algorythma Autonomous Aerial Labs, I worked as a Systems Integration Engineer, where I developed a unified swarming subsystem to command and control UAVs. I designed and implemented a geometric controller for trajectory tracking and created a minimum snap trajectory generator and sampler.
 </div>
 <div class="description">
-My responsibilities included building a custom sensor fusion system using EKF and designing a globally consistent state estimation for swarming applications. I also implemented online 3D mapping using RGBD cameras and custom designed a GUI for feedback and control.
-</div>
-<div class="description">
-In addition, I developed scripts for easy system setup and implemented continuous integration for critical subsystems using Jenkins and Docker. I was also involved in PCB design and development for various subsystems.
+I was responsible for building a custom sensor fusion system using EKF, designing globally consistent state estimation for swarming applications, and implementing online 3D mapping using RGBD cameras. I also developed scripts for system setup and implemented continuous integration using Jenkins and Docker.
 </div>
 </li>
-
 </ul>
-
-## BUT nv, Dubai, UAE
-
+BUT nv, Dubai, UAE
 <ul style="list-style-type:square">
+<li>
+<div class="title">
+use bullet points like in  the CV
+ChatGPT
+Certainly! Here's the updated GitHub IO page content with bullet points, as shown in the CV:
 
+<!-- layout: archive -->
+title: "Work Experience"
+permalink: /experience/
+author_profile: true
+redirect_from:
+
+/experience
+<head>
+<style>
+p.research {
+  text-align: justify;
+}
+div.title {
+  text-align: left;
+  font-weight: bold;
+}
+div.description {
+  text-align: left;
+  opacity: 0.8;
+}
+</style>
+</head>
+Work Experience
+ZEROFLAi
+<ul style="list-style-type:square">
+<li>
+<div class="title">Co-Founder & CEO</div>
+<div class="description">Jul. 2023 - Present</div>
+<ul>
+<li>Bridging drone innovation from research to industry</li>
+<li>Autonomous charging system for UAVs for perpetual autonomous missions without a human in the loop</li>
+</ul>
+</li>
+</ul>
+Technology Innovation Institute, Abu Dhabi, UAE
+<ul style="list-style-type:square">
+<li>
+<div class="title">Senior Researcher Hardware Design</div>
+<div class="description">Jul. 2020 - Aug. 2023</div>
+<ul>
+<li>Fully automated system design for test platforms - Quadcopter and Fixed-Wing VTOL</li>
+<li>Unified control architecture for quadcopters and fixed wings</li>
+<li>Implemented non-linear controller and planner for high-speed aggressive quadcopter flights exceeding 100 miles per hour</li>
+<li>Multi-sensor fusion using an Unscented Kalman Filter</li>
+<li>Designed a cascaded multi-filter approach (EKF & PDAF) to track incoming objects while removing false positives</li>
+<li>Mission commander with tight integration with QGroundControl</li>
+<li>Custom UI for commander and control modules</li>
+<li>Full hardware system design</li>
+</ul>
+</li>
+</ul>
+Algorythma Autonomous Aerial Labs, Abu Dhabi, UAE
+<ul style="list-style-type:square">
+<li>
+<div class="title">Systems Integration Engineer</div>
+<div class="description">Oct. 2018 - Jun. 2020</div>
+<ul>
+<li>Developed a unified swarming subsystem to command and control UAVs</li>
+<li>Designed and implemented a geometric controller for trajectory tracking</li>
+<li>Designed a minimum snap trajectory generator and sampler</li>
+<li>Built a custom sensor fusion system using EKF</li>
+<li>Designed and implemented a globally consistent state estimation for swarming applications</li>
+<li>Implemented online 3D mapping using RGBD cameras</li>
+<li>Custom designed a GUI for feedback and control</li>
+<li>Developed scripts for easy system setup</li>
+<li>Implemented continuous integration for important subsystems using Jenkins and Docker</li>
+<li>PCB design and development for various subsystems</li>
+</ul>
+</li>
+</ul>
+BUT nv, Dubai, UAE
+<ul style="list-style-type:square">
 <li>
 <div class="title">Hardware Developer / Lead Hardware Engineer</div>
 <div class="description">May. 2015 - Sept. 2018</div>
-<div class="description">
-At BUT nv, I initially served as a Hardware Developer and was later promoted to Lead Hardware Engineer. My projects included building an RC car with FPV and lap timer controlled with a steering wheel for racing, and implementing control of ABB Yumi robotic hand using a PlayStation controller at MWC 2018.
-</div>
-<div class="description">
-I developed backend systems for an in-house Robotic AI assistant and created interfaces that connected Unity 3D with ABB Yumi using RAPID. I also built 4D Virtual Reality systems and reverse-engineered black box systems.
-</div>
-<div class="description">
-My other projects involved developing custom software for holographic fans, designing networking protocols for multiplayer VR experiences, and integrating custom sensors in smart mirrors. I also implemented user tracking in large-scale AR projects and created various prototypes for smart living solutions.
-</div>
-</li>
-
+<ul>
+<li>Built RC car with FPV and lap timer, controlled with steering wheel for racing</li>
+<li>Backend implementation for an in-house Robotic AI assistant</li>
+<li>Implemented control of ABB Yumi robotic hand using PlayStation controller at MWC 2018</li>
+<li>Created an interface that connected Unity 3D with ABB Yumi using RAPID</li>
+<li>Built a touchscreen using a Hokuyo Lidar and integrated it with in-house content</li>
+<li>Designed and built 4D Virtual Reality systems, which triggered additional experiences like water mist, scent, rumble, etc.</li>
+<li>Reverse-engineered black box systems</li>
+<li>Developed custom software for holographic fans, allowing multiple fans to sync content and display large format videos</li>
+<li>Designed networking protocols and seamless player tracking for a multiplayer VR experience</li>
+<li>Implemented user tracking in a large-scale interactive Augmented Reality project</li>
+<li>Used Crazyflie 2.0 as an autopilot for a swarm of 6 mini quadcopters in a dance</li>
+<li>Integrated custom sensors in the smart mirror platform to detect parameters like height, weight, temperature, breathing rate, etc.</li>
+<li>Created a 6DOF trackable paper to be used as control for a projection mapping table</li>
+<li>Implemented and merged face analytics API into in-house solutions</li>
+<li>Built a prototype concept for the smart living room, with features including a key finder, knock controller, smart wallpaper, etc.</li>
+<li>Full 6DOF tracking of an object using PNP algorithm and a single camera</li>
+<li>Designed and implemented software to analyze and add motion to 360 video</li>
+<li>Server maintenance and optimization for the Guzzle app</li>
+<li>Built and delivered workshops for university students, including OpenCV, Arduino, and using microcontrollers with computers</li>
+<li>Built an object detection/recognition API using machine learning for Unity 3D</li>
 </ul>
-
-## The Assembly, Dubai, UAE
-
+</li>
+</ul>
+The Assembly, Dubai, UAE
 <ul style="list-style-type:square">
-
 <li>
 <div class="title">In House Engineer</div>
 <div class="description">Oct. 2014 - May. 2015</div>
-<div class="description">
-As an In House Engineer at The Assembly, I was responsible for building projects and delivering workshops on various topics including Robotics and IoT. My workshops covered basics and advanced IoT concepts, computer vision, gesture control, UAVs, smart home automation, DIY security cameras, and robotic vision.
-</div>
-</li>
-
+<ul>
+<li>Delivered workshops on various topics, including Robotics and IoT</li>
+<li>Basics of IoT: Introduction to IoT, IOE, and the AllJoyn library from Qualcomm</li>
+<li>Advanced IoT: Continued from Basics of IoT, introducing and teaching the AllJoyn library</li>
+<li>Learning Computer Vision: Introduced OpenCV and taught basic Image Processing functions</li>
+<li>Learning Gesture Control: Introduced the Leap Sensor and demonstrated its use for robot control</li>
+<li>Basics of UAVs: Introduced participants to UAV concepts, including flight, control, etc.</li>
+<li>Smart Home Automation: Introduction to the Arduino Platform and environmental sensing</li>
+<li>DIY Security Camera: Used OpenCV optical flow algorithm to detect movement and upload videos to the cloud</li>
+<li>How do Robots See: Focused on implementing and improving obstacle avoidance algorithms</li>
 </ul>
-
-## Etisalat, Dubai, UAE
-
+</li>
+</ul>
+Etisalat, Dubai, UAE
 <ul style="list-style-type:square">
-
 <li>
 <div class="title">UAV Engineer</div>
 <div class="description">Dec. 2014 - Feb. 2015, Aug. 2014 - Oct. 2014</div>
-<div class="description">
-At Etisalat, I worked on UAV projects for the Drones for Good Award and the Smart City Project. I developed path planning and obstacle avoidance algorithms, non-linear control systems for low power consumption flights, and autonomous charging schemes. I also integrated sensor stacks with controllers and designed multi-rotor platforms for heavy payloads.
-</div>
-</li>
-
+<ul>
+<li>Developed path planning and obstacle avoidance algorithms</li>
+<li>Implemented non-linear control systems for low power consumption flights</li>
+<li>Designed autonomous charging schemes and route optimizations for long-endurance flights</li>
+<li>Interfaced sensor stacks with controllers and designed multi-rotor platforms for heavy payloads</li>
+<li>Full software stack development for UAV projects</li>
 </ul>
-
-## Samsung and Acer, Dubai, UAE
-
+</li>
+</ul>
+Samsung and Acer, Dubai, UAE
 <ul style="list-style-type:square">
-
 <li>
 <div class="title">Promoter</div>
 <div class="description">Feb. 2013 and Oct. 2012</div>
-<div class="description">
-Worked as a promoter for Samsung during Gitex Shopper 2013 and Acer during Gitex Shoppers 2012, engaging with customers and demonstrating product features.
-</div>
-</li>
-
+<ul>
+<li>Worked as a promoter for Samsung during Gitex Shopper 2013 and Acer during Gitex Shopper 2012</li>
+<li>Engaged with customers and demonstrated product features</li>
 </ul>
+</li>
+</ul> 
